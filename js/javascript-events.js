@@ -2,7 +2,7 @@
  * changes the text on a click event
  **/
 function clickEvent() {
-	document.getElementById("click").innerHTML = "Thank you.";
+	document.getElementById("click").innerHTML = "A week later, the fugitive horse sauntered back to the homestead, accompanied by six wild horses. The farmer and his son managed to corral all of them. Again the neighbors descended. &#34;What great luck!&#34; they exclaimed. &#34;Maybe,&#34; the farmer replied. &#34;Maybe not.&#34; ";
 }
 
 /**
