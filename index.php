@@ -17,6 +17,7 @@
 				<p><input type="checkbox" id="checkbox" value="1" onchange="showMoreInfo();">Maybe not.</p>
 				<div id="moreInfo">
 					<textarea cols="150" rows="3">The next day, soldiers visited the farmer's village. Strife had recently broken out between two warlords, and one of them had come to conscript all the local young men. Though every other son was commandeered, the farmer's boy was exempted because of his injury. The neighbors gathered again. "What fantastic luck!" they exclaimed. "Maybe," the farmer said. "Maybe not."</textarea>
+
 			</div>
 		</main>
 	</body>
